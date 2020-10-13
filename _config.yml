@@ -6,7 +6,7 @@ title: Acellular genomics # the website title (if blank, full name will be used 
 first_name: Wollny
 middle_name:
 last_name: lab
-email: damian_wollny@eva.mpg.de
+email: wollnylab@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url: https://github.com/damianwollny/wollny-lab.github.io.git/ # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
