@@ -3,12 +3,6 @@ layout: page
 permalink: /people/
 title: people
 description:
-
-profile:
-  align: right
-  image: front_page.png
-  address:
-
 nav: true
 ---
 
@@ -29,7 +23,7 @@ nav: true
     </div>
     <div class="caption">
         <p align="left">name: <b>aram safrastyan</b></p>
-        <p align="left">title: phd student</p>
+        <p align="left">position: phd student</p>
         <p align="left">email: aram.safrastyan [at] uni-jena.de</p>
         <p align="left">favourite activity: work</p>
     </div>
@@ -46,7 +40,7 @@ nav: true
     </div>
     <div class="caption">
         <p align="left">name: <b>damian wollny</b></p>
-        <p align="left">title: group leader</p>
+        <p align="left">position: group leader</p>
         <p align="left">email: damian.wollny [at] uni-jena.de</p>
         <p align="left">favourite activity: work</p>
     </div>
@@ -63,7 +57,7 @@ nav: true
     </div>
     <div class="caption">
         <p align="left">name: <b>franziska aron</b></p>
-        <p align="left">title: technician</p>
+        <p align="left">position: technician</p>
         <p align="left">email: franziska.aron [at] uni-jena.de</p>
         <p align="left">favourite activity: work</p>
     </div>
@@ -80,7 +74,7 @@ nav: true
     </div>
     <div class="caption">
         <p align="left">name: <b>julia micheel</b></p>
-        <p align="left">title: phd student</p>
+        <p align="left">position: phd student</p>
         <p align="left">email: julia.micheel [at] uni-jena.de</p>
         <p align="left">favourite activity: work</p>
     </div>
