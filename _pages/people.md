@@ -2,16 +2,89 @@
 layout: page
 permalink: /people/
 title: people
-description: Join our group!
+description:
+
+profile:
+  align: right
+  image: front_page.png
+  address:
+
 nav: true
 ---
 
-<u>Students</u>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/group_pic.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    Group picture
+</div>
 
-We are always looking for enthusiastic and creative students (student interns, master thesis)
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-<u>PhD position</u>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Kermit.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="caption">
+        <p align="left">name: <b>aram safrastyan</b></p>
+        <p align="left">title: phd student</p>
+        <p align="left">email: aram.safrastyan [at] uni-jena.de</p>
+        <p align="left">favourite activity: work</p>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/white.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
 
-We are currently looking for a motivated PhD student to join our group!
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-Find more information about the position **[here](https://www4.uni-jena.de/Universit%C3%A4t/Stellenmarkt/Wissenschaftliche+Mitarbeiter/+PhD+position+in+Single+Cell+Genomics+%28m_f_d%29.html){:target="\_blank"}**. If you're interested please contact me via email.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/damian.png' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="caption">
+        <p align="left">name: <b>damian wollny</b></p>
+        <p align="left">title: group leader</p>
+        <p align="left">email: damian.wollny [at] uni-jena.de</p>
+        <p align="left">favourite activity: work</p>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/white.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/franzi.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="caption">
+        <p align="left">name: <b>franziska aron</b></p>
+        <p align="left">title: technician</p>
+        <p align="left">email: franziska.aron [at] uni-jena.de</p>
+        <p align="left">favourite activity: work</p>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/white.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/julia.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="caption">
+        <p align="left">name: <b>julia micheel</b></p>
+        <p align="left">title: phd student</p>
+        <p align="left">email: julia.micheel [at] uni-jena.de</p>
+        <p align="left">favourite activity: work</p>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/white.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
