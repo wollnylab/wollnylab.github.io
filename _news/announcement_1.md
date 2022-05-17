@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-03-15 15:59:00-0400
+date: 2021-05-17 07:59:00-0400
 inline: true
 ---
 
-We now created a detailed [step-by-step protocol](https://www.protocols.io/view/single-coacervate-sequencing-dm6gpw225lzp/v1) for single-coacervate sequencing. Great work by Franzi!
+Our single coacervate seq paper is out now in [Nat Comm](https://www.nature.com/articles/s41467-022-30158-1)! Congrats to all authors!
