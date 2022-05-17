@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-10-30 15:59:00-0400
+date: 2022-05-17 07:59:00-0400
 inline: true
 ---
 
-First paper of the lab published :tada: Congrats, Julia & Aram!
+Our single coacervate seq paper is out now in [Nat Comm](https://www.nature.com/articles/s41467-022-30158-1)! Congrats to all authors!
