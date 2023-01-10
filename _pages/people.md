@@ -87,3 +87,21 @@ nav: true
         <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/white.jpg' | relative_url }}" alt="" title="nothing to see here"/>
     </div>
 </div>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/saeedeh.jpg' | relative_url }}" alt="" title=""/>
+    </div>
+    <div class="caption">
+        <p align="left">name: <b>saeedeh zamani</b></p>
+        <p align="left">position: master student</p>
+        <p align="left">email: saeedeh.zamani [at] uni-jena.de</p>
+        <p align="left">master @ university jena</p>
+        <p align="left">bachelor @ azad university</p>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/white.jpg' | relative_url }}" alt="" title="nothing to see here"/>
+    </div>
+</div>
