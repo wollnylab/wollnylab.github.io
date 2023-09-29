@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-05-17 07:59:00-0400
+date: 2023-09-29 07:59:00-0400
 inline: true
 ---
 
-Our single coacervate seq paper is out now in [Nat Comm](https://www.nature.com/articles/s41467-022-30158-1)! Congrats to all authors!
+Two new papers out on bioRxiv about [Detecting ligand-receptor signaling in blood](https://www.biorxiv.org/content/10.1101/2023.09.25.559274v1) and [RNA-based fungal detection](https://www.biorxiv.org/content/10.1101/2023.09.26.559494v1)! Congrats to Aram & Julia!
