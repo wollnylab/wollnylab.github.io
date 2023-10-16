@@ -56,24 +56,6 @@ nav: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/franzi.jpg' | relative_url }}" alt="" title=""/>
-    </div>
-    <div class="caption">
-        <p align="left">name: <b>franziska aron</b></p>
-        <p align="left">position: technician</p>
-        <p align="left">email: franziska.aron [at] uni-jena.de</p>
-        <p align="left">ta @ max-planck institute for the science of human history</p>
-        <p align="left">training @ german primate center</p>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/white.jpg' | relative_url }}" alt="" title="nothing to see here"/>
-    </div>
-</div>
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/julia.jpg' | relative_url }}" alt="" title=""/>
     </div>
     <div class="caption">
